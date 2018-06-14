@@ -1,1 +1,1 @@
-# puppet-control-repo
+Let's control using puppet
